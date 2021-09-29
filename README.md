@@ -10,12 +10,12 @@ This is the intial apperance of the filters, there are 5 different filters which
 
 Date, City, State, Country, Shape each can be mixed and matched to further your search in a more detailed matter.
 
-![Pic 2](https://github.com/Baylex/UFOs/blob/main/static/images/bottom.PNG)
+![Pic 1](https://raw.githubusercontent.com/alecngai/11_UFOs/main/static/images/PIC_1_Filters.png)
 
 ### How the filters appear after being used: 
 By typing in the suggested placeholder elements as the filters, the result returns 2 matches.  These filter boxes are not case sensative and will respond after the users clicks out of the box, this will signify a change and trigger the App.js to update the tables.  
 
-![Pic 3](https://github.com/Baylex/UFOs/blob/main/static/images/working_filters.PNG)
+![Pic 2](https://raw.githubusercontent.com/alecngai/11_UFOs/main/static/images/PIC_2_Filters_Example.png)
 
 
 ## Summary: 
